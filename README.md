@@ -5,12 +5,12 @@ Available arguments:
 ```
 path_input
     Use:      Where the input CSV is located.
-    Syntax:   path_input \"C:\\Your_Location\\Input.csv\"
-    Default:  CurrentLocation\\input.csv
+    Syntax:   path_input "C:\Your_Location\Input.csv
+    Default:  CurrentLocation\input.csv
 path_output   
     Use:      Where the output CSV should be located.
-    Syntax:   path_output \"C:\\Your_Location\\Output.csv\"
-    Default:  CurrentLocation\\output.csv
+    Syntax:   path_output C:\Your_Location\Output.csv
+    Default:  CurrentLocation\output.csv
 apikey        
     Use:      This is your OpenAI API key
     Syntax:   apikey sk-aaaabbbbccccdddd
