@@ -1,4 +1,9 @@
 # GPTCSV
+![Tests](https://img.shields.io/github/stars/MysteriousTaway/GPTCSV)
+![Tests](https://img.shields.io/github/languages/top/MysteriousTaway/GPTCSV)
+![Tests](https://img.shields.io/github/forks/MysteriousTaway/GPTCSV)
+![Tests](https://img.shields.io/github/issues-pr/MysteriousTaway/GPTCSV)
+![Tests](https://img.shields.io/github/last-commit/MysteriousTaway/GPTCSV)<br>
 Reads a CSV file with queries which it sends to GPT3 and writes results back in a CSV.
 
 Available arguments:
